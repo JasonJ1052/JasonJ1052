@@ -5,8 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning GitHub
-- 🌱 I’m currently learning GitHub
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Linux & Gethub
 - 💬 Ask me about Hockey or Food
 - 😄 Pronouns: He/Him
