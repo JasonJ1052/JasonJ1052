@@ -10,6 +10,9 @@ class Pig:
     def build_house(self):
         strength = {"straw":1, "sticks":2, "bricks":3}[self.material]
         self.house = (self.material, strength)
+    def squeal():
+        print("Squeal!")
+        
 class House:
     def __init__(self, material, strength):
         self.material = material
